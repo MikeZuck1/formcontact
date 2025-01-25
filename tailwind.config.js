@@ -49,9 +49,19 @@ module.exports = {
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
-  			}
+  			},
+			greenLighter: "hsl(148, 38%, 91%)",
+			greenMedium: "hsl(186, 15%, 59%)",
+			red: "hsl(0, 66%, 54%)",
+			white: "hsl(0, 0%, 100%)",
+			greyMedium: "hsl(186, 15%, 59%)",
+			greyDarker: "hsl(187, 24%, 22%)", 
   		}
-  	}
+  	},
+	screens: {
+		mobile: "375px",
+        desktop: "1440px",
+	}
   },
   plugins: [require("tailwindcss-animate")],
 }

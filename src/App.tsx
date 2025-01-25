@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Container from "./components/container";
 
 function App() {
-
   return (
     <>
-      <h1 className='text-2xl italic'>Hello World</h1>
+      <Container />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
