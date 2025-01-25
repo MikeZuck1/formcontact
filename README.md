@@ -30,7 +30,7 @@ This project is a part of the [FrontendMentor](https://www.frontendmentor.io/) c
 1. Clone this repository on your local machine : 
 
 ```bash
-  git clone https:... 
+  git clone https://github.com/MikeZuck1/formcontact.git 
 ```
 
 2. Navigate to the project directory :
