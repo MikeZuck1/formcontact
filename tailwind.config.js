@@ -52,6 +52,7 @@ module.exports = {
   			},
 			greenLighter: "hsl(148, 38%, 91%)",
 			greenMedium: "hsl(186, 15%, 59%)",
+			greenNormal: "hsl(171, 86%, 25%)",
 			red: "hsl(0, 66%, 54%)",
 			white: "hsl(0, 0%, 100%)",
 			greyMedium: "hsl(186, 15%, 59%)",

@@ -1,5 +1,5 @@
 import "./App.css";
-import Container from "./components/container";
+import Name from "./components/name";
 import Email from "@/components/email";
 import QueryType from "@/components/queryType";
 import TextArea from "./components/textArea";
@@ -10,7 +10,7 @@ function App() {
     <>
       <div className="flex items-center justify-center h-screen">
         <div className="p-5 w-[35rem] h-[35rem] rounded-xl bg-white shadow-lg">
-          <Container />
+          <Name />
           <Email />
           <QueryType />
           <TextArea />

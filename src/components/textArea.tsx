@@ -8,9 +8,9 @@ const textArea = () => {
       <Label htmlFor="message">
         Message <span className="text-greenMedium">*</span>
       </Label>
-      <Textarea />
+      <Textarea className="hover:border-green-700" />
       <div className="flex gap-2 mt-10">
-        <Checkbox />
+        <Checkbox className="hover:border-green-700" />
         <p className="text-sm text-muted-foreground text-black">
           I consent to being contacted by the team{" "}
           <span className="text-greenMedium">*</span>

@@ -3,7 +3,7 @@ const queryType = () => {
   return (
     <>
       <div className="mt-5">
-        Query Type <span className="text-greenMedium">*</span>
+        Query Type{" "}<span className="text-greenMedium">*</span>
       </div>
       <div className="flex flex-row gap-5 mt-2">
         {/* Input First Name */}
