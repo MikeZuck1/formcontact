@@ -10,8 +10,8 @@ const textArea = () => {
       </Label>
       <Textarea className="hover:border-green-700" />
       <div className="flex gap-2 mt-10">
-        <Checkbox className="hover:border-green-700" />
-        <p className="text-sm text-muted-foreground text-black">
+        <Checkbox className="hover:border-green-700 cursor-pointer" />
+        <p className="text-sm text-black">
           I consent to being contacted by the team{" "}
           <span className="text-greenMedium">*</span>
         </p>

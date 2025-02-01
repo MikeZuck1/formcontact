@@ -8,7 +8,7 @@ const button = () => {
       <form action="">
         <Button
           variant="outline"
-          className="w-full text-white bg-emerald-700 hover:bg-emerald-700 hover:text-white"
+          className="w-full text-white bg-emerald-700 hover:bg-emerald-700 hover:text-white cursor-pointer"
         >
           Submit
         </Button>
